@@ -8,9 +8,7 @@ var files = [ 'africa'
 , 'europe'
 , 'factory'
 , 'northamerica'
-, 'pacificnew'
 , 'southamerica'
-, 'systemv'
 ];
 
 (function () {

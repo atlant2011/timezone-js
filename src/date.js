@@ -895,7 +895,7 @@
     }
 
     this.zoneFileBasePath = null;
-    this.zoneFiles = ['africa', 'antarctica', 'asia', 'australasia', 'backward', 'etcetera', 'europe', 'northamerica', 'pacificnew', 'southamerica'];
+    this.zoneFiles = ['africa', 'antarctica', 'asia', 'australasia', 'backward', 'etcetera', 'europe', 'northamerica', 'southamerica'];
     this.loadingSchemes = {
       PRELOAD_ALL: 'preloadAll',
       LAZY_LOAD: 'lazyLoad',
